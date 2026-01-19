@@ -1,44 +1,41 @@
 # Swiggy Data Analyst-Dashboard using Excel
-## Objective
-To analyze Swiggy sales data, identify trends, compare food and regional performance, study customer behavior, and support data-driven business decisions.
+## Project Objective
+To evaluate Swiggy’s sales performance by analyzing order trends, customer behavior, and regional demand, enabling data-driven strategic decision-making through an interactive Excel dashboard.
 
-## Dataset Used
-<a href="https://github.com/Hari6999/Swiggy-Data-Analyst-Dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Swiggy raw data file</a>
+## Dataset Overview
+The <a href="https://github.com/Hari6999/Swiggy-Data-Analyst-Dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Dataset</a> includes Swiggy order-level data covering sales amount, order volume, food category, customer ratings, city and state information, and time-based attributes such as day, month, and quarter.
 
-## Problem Statement
-### KPI
+## Key Performance Indicators (KPIs)
+- Total Sales: Measures overall revenue generated
+- Total Orders: Tracks customer demand
+- Average Order Value (AOV): Revenue per order
+- Average Rating: Indicates customer satisfaction
+- Ratings Count: Measures customer engagement
 
-- Total Sales - Overall revenue generated from food orders.
-- Average Rating - Customer satisfaction level across all restaurants.
-- Average Order Value - Revenue per order.
-- Ratings Count - Total number of customer reviews.
-- Total Orders - Number of food orders received.
-
-### Charts
-
-- Monthly Sales Trend - Shows how total sales fluctuate month by month.
-- Daily Sales Trend - Highlights order and revenue variations across days of the week.
-- Total Sales by Food Type (Veg vs Non-Veg) - Compares revenue contribution by cuisine type.
-- Total Sales by State (Map Visualization) - Displays state-wise revenue distribution.
-- Quarterly Performance Summary - Combines Sales, Ratings, and Orders by Quarter.
-- Top 5 Cities by Sales - Identifies leading cities contributing the most revenue.
-- Weekly Trend Analysis - Monitors weekly fluctuations in sales to identify consistency or peak periods.
-
-## Process
-Collected Swiggy raw data, cleaned and prepared it in Excel, created calculated fields and KPIs, analyzed sales trends and customer behavior, and built an interactive dashboard to generate business insights.
-
+## Analytical Scope & Visualizations
+- Monthly and daily sales trend analysis to identify peak demand periods
+- Revenue comparison between Veg and Non-Veg food categories
+- State-wise sales distribution using geographic mapping
+- Quarterly performance analysis across sales, orders, and ratings
+- Identification of top 5 revenue-generating cities
+- Weekly sales trend analysis to assess consistency and demand patterns
+  
+## Methodology
+- Collected and validated raw Swiggy sales data
+- Cleaned and transformed data using Excel functions
+- Created calculated fields and KPIs
+- Applied pivot tables and charts for trend analysis
+- Designed an interactive dashboard for business reporting
+  
 ## Dashboard
 <img width="1162" height="577" alt="Swiggy Data Analyst Dashboard Report" src="https://github.com/user-attachments/assets/91d2e530-573f-4b8f-b5e7-34d6d1dbb165" />
 
-## Project Insights
-
-- Total sales reached ₹53.01M with 197K orders, showing strong platform demand.
-- Non-Veg food (63%) contributes more revenue than Veg food (37%).
-- Bengaluru is the highest revenue-generating city, followed by Hyderabad and Lucknow.
-- Q1 and Q2 perform better than Q3 in sales and order volume.
-- Customer satisfaction is high with an average rating of 4.34.
-- Weekly sales remain consistent with visible peak demand periods.
+## Key Insights
+- Achieved total sales of ₹53.01M from 197K orders, indicating strong platform demand
+- Non-Veg food accounts for 63% of total revenue, showing higher customer preference
+- Bengaluru leads in revenue contribution, followed by Hyderabad and Lucknow
+- Q1 and Q2 outperform Q3 in both sales and order volume
+- High customer satisfaction reflected by an average rating of 4.34
 
 ## Conclusion
-
-The Swiggy Sales Analytics project successfully analyzes sales performance, customer behavior, and regional trends using data visualization. The dashboard highlights key insights such as high-performing cities, strong non-veg demand, consistent customer ratings, and peak sales periods, enabling data-driven business decisions.
+The Swiggy Sales Analytics Dashboard provides a comprehensive view of sales performance, customer preferences, and regional demand. The insights derived support informed decision-making, demand forecasting, and strategic business planning using Excel-based analytics.
