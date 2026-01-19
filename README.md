@@ -28,4 +28,17 @@ To analyze Swiggy sales data, identify trends, compare food and regional perform
 Collected Swiggy raw data, cleaned and prepared it in Excel, created calculated fields and KPIs, analyzed sales trends and customer behavior, and built an interactive dashboard to generate business insights.
 
 ## Dashboard
-<a href="https://github.com/Hari6999/Swiggy-Data-Analyst-Dashboard/blob/main/Swiggy%20Data%20Analyst%20Dashboard%20Report.png">Swiggy Analyst Dashboard</a>
+<img width="1162" height="577" alt="Swiggy Data Analyst Dashboard Report" src="https://github.com/user-attachments/assets/91d2e530-573f-4b8f-b5e7-34d6d1dbb165" />
+
+## Project Insights
+
+- Total sales reached ₹53.01M with 197K orders, showing strong platform demand.
+- Non-Veg food (63%) contributes more revenue than Veg food (37%).
+- Bengaluru is the highest revenue-generating city, followed by Hyderabad and Lucknow.
+- Q1 and Q2 perform better than Q3 in sales and order volume.
+- Customer satisfaction is high with an average rating of 4.34.
+- Weekly sales remain consistent with visible peak demand periods.
+
+## Conclusion
+
+The Swiggy Sales Analytics project successfully analyzes sales performance, customer behavior, and regional trends using data visualization. The dashboard highlights key insights such as high-performing cities, strong non-veg demand, consistent customer ratings, and peak sales periods, enabling data-driven business decisions.
