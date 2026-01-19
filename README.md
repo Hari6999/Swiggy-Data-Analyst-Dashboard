@@ -28,4 +28,4 @@ To analyze Swiggy sales data, identify trends, compare food and regional perform
 Collected Swiggy raw data, cleaned and prepared it in Excel, created calculated fields and KPIs, analyzed sales trends and customer behavior, and built an interactive dashboard to generate business insights.
 
 ## Dashboard
-<a href="https://github.com/Hari6999/Swiggy-Data-Analyst-Dashboard/blob/main/KPI.jpeg">Swiggy Analyst Dashboard</a>
+<a href="https://github.com/Hari6999/Swiggy-Data-Analyst-Dashboard/blob/main/Swiggy%20Data%20Analyst%20Dashboard%20Report.png">Swiggy Analyst Dashboard</a>
