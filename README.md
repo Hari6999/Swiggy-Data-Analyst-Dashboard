@@ -6,7 +6,7 @@ To analyze Swiggy sales data, identify trends, compare food and regional perform
 <a href="https://github.com/Hari6999/Swiggy-Data-Analyst-Dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Swiggy raw data file</a>
 
 ## Problem Statement
-<a href="https://github.com/Hari6999/Swiggy-Data-Analyst-Dashboard/blob/main/KPI.jpeg">KPI's Problem</a>
+### KPI
 
 - Total Sales - Overall revenue generated from food orders.
 - Average Rating - Customer satisfaction level across all restaurants.
@@ -14,7 +14,7 @@ To analyze Swiggy sales data, identify trends, compare food and regional perform
 - Ratings Count - Total number of customer reviews.
 - Total Orders - Number of food orders received.
 
-<a href="https://github.com/Hari6999/Swiggy-Data-Analyst-Dashboard/blob/main/KPI.jpeg">Chart's Problem</a>
+### Charts
 
 - Monthly Sales Trend - Shows how total sales fluctuate month by month.
 - Daily Sales Trend - Highlights order and revenue variations across days of the week.
